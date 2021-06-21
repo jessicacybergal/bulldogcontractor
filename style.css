@@ -784,8 +784,6 @@ img.alignright,
 	margin-bottom: 0;
 }
 
-.sticky {
-}
 
 .entry-content .wp-audio-shortcode,
 .entry-content .wp-playlist,
@@ -1391,8 +1389,6 @@ li.comment {
 	display: none;
 }
 
-.bypostauthor {
-}
 
 .form-allowed-tags {
 	background-color: #f5f5f5;
